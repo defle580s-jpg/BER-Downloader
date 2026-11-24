@@ -44,7 +44,7 @@ android {
     buildFeatures { buildConfig = true }
 
     defaultConfig {
-        applicationId = "com.com.ber.downloader"
+        applicationId = "com.ber.downloader"
         minSdk = 24
         targetSdk = 35
         versionCode = 100_010_400
